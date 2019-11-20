@@ -1,0 +1,11 @@
+D:\SomaDutta\pilkarzyki\bin\Debug\netcoreapp3.0\pilkarzyki.exe
+D:\SomaDutta\pilkarzyki\bin\Debug\netcoreapp3.0\pilkarzyki.deps.json
+D:\SomaDutta\pilkarzyki\bin\Debug\netcoreapp3.0\pilkarzyki.runtimeconfig.json
+D:\SomaDutta\pilkarzyki\bin\Debug\netcoreapp3.0\pilkarzyki.runtimeconfig.dev.json
+D:\SomaDutta\pilkarzyki\bin\Debug\netcoreapp3.0\pilkarzyki.dll
+D:\SomaDutta\pilkarzyki\bin\Debug\netcoreapp3.0\pilkarzyki.pdb
+D:\SomaDutta\pilkarzyki\obj\Debug\netcoreapp3.0\pilkarzyki.csprojAssemblyReference.cache
+D:\SomaDutta\pilkarzyki\obj\Debug\netcoreapp3.0\pilkarzyki.AssemblyInfoInputs.cache
+D:\SomaDutta\pilkarzyki\obj\Debug\netcoreapp3.0\pilkarzyki.AssemblyInfo.cs
+D:\SomaDutta\pilkarzyki\obj\Debug\netcoreapp3.0\pilkarzyki.dll
+D:\SomaDutta\pilkarzyki\obj\Debug\netcoreapp3.0\pilkarzyki.pdb
