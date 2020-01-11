@@ -1,0 +1,11 @@
+D:\SomaDutta\projekt\bin\Debug\projekt.exe.config
+D:\SomaDutta\projekt\bin\Debug\projekt.exe
+D:\SomaDutta\projekt\bin\Debug\projekt.pdb
+D:\SomaDutta\projekt\obj\Debug\projekt.csprojAssemblyReference.cache
+D:\SomaDutta\projekt\obj\Debug\projekt.Form1.resources
+D:\SomaDutta\projekt\obj\Debug\projekt.Properties.Resources.resources
+D:\SomaDutta\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+D:\SomaDutta\projekt\obj\Debug\projekt.exe
+D:\SomaDutta\projekt\obj\Debug\projekt.pdb
+D:\SomaDutta\projekt\obj\Debug\projekt.Form2.resources
+D:\SomaDutta\projekt\obj\Debug\projekt.AddTrainer.resources
