@@ -42,27 +42,32 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(12, 266);
+            this.button1.Location = new System.Drawing.Point(9, 216);
+            this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(195, 52);
+            this.button1.Size = new System.Drawing.Size(146, 42);
             this.button1.TabIndex = 3;
             this.button1.Text = "Add football player";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(238, 266);
+            this.button2.Location = new System.Drawing.Point(190, 216);
+            this.button2.Margin = new System.Windows.Forms.Padding(2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(213, 52);
+            this.button2.Size = new System.Drawing.Size(160, 42);
             this.button2.TabIndex = 4;
-            this.button2.Text = "Add Team";
+            this.button2.Text = "Add Staff";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(509, 266);
+            this.button3.Location = new System.Drawing.Point(382, 216);
+            this.button3.Margin = new System.Windows.Forms.Padding(2);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(244, 52);
+            this.button3.Size = new System.Drawing.Size(183, 42);
             this.button3.TabIndex = 5;
             this.button3.Text = "Add trainer";
             this.button3.UseVisualStyleBackColor = true;
@@ -70,9 +75,10 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(12, 395);
+            this.button4.Location = new System.Drawing.Point(9, 321);
+            this.button4.Margin = new System.Windows.Forms.Padding(2);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(88, 43);
+            this.button4.Size = new System.Drawing.Size(66, 35);
             this.button4.TabIndex = 6;
             this.button4.Text = "Back to Main page";
             this.button4.UseVisualStyleBackColor = true;
@@ -82,9 +88,10 @@
             // 
             this.pictureBox3.BackgroundImage = global::projekt.Properties.Resources.trainer;
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox3.Location = new System.Drawing.Point(509, 43);
+            this.pictureBox3.Location = new System.Drawing.Point(382, 35);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(244, 199);
+            this.pictureBox3.Size = new System.Drawing.Size(183, 162);
             this.pictureBox3.TabIndex = 2;
             this.pictureBox3.TabStop = false;
             // 
@@ -92,9 +99,10 @@
             // 
             this.pictureBox2.BackgroundImage = global::projekt.Properties.Resources.logo;
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox2.Location = new System.Drawing.Point(253, 43);
+            this.pictureBox2.Location = new System.Drawing.Point(190, 35);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(213, 199);
+            this.pictureBox2.Size = new System.Drawing.Size(160, 162);
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
             // 
@@ -102,18 +110,19 @@
             // 
             this.pictureBox1.BackgroundImage = global::projekt.Properties.Resources.player;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(12, 43);
+            this.pictureBox1.Location = new System.Drawing.Point(9, 35);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(195, 199);
+            this.pictureBox1.Size = new System.Drawing.Size(146, 162);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // Form2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(600, 366);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
@@ -121,6 +130,7 @@
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form2";
             this.Text = "Form2";
             this.Load += new System.EventHandler(this.Form2_Load);

@@ -20,7 +20,6 @@ namespace projekt
             InitializeComponent();
             this.Text = "Team player preview";
             pictureBox1.SizeMode = PictureBoxSizeMode.AutoSize;
-
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -39,6 +38,11 @@ namespace projekt
         private void pictureBox1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }

@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddOthers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddOthers.Designer.cs">
+      <DependentUpon>AddOthers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPlayer.Designer.cs">
+      <DependentUpon>AddPlayer.cs</DependentUpon>
+    </Compile>
     <Compile Include="AddTrainer.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -67,6 +79,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AddOthers.resx">
+      <DependentUpon>AddOthers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPlayer.resx">
+      <DependentUpon>AddPlayer.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="AddTrainer.resx">
       <DependentUpon>AddTrainer.cs</DependentUpon>
     </EmbeddedResource>
@@ -113,6 +131,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\trainer_photo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\796073086.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jaroslaw-szandrocho-masazysta-slask-wroclaw.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

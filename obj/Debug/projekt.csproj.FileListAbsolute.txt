@@ -9,3 +9,16 @@ D:\SomaDutta\projekt\obj\Debug\projekt.exe
 D:\SomaDutta\projekt\obj\Debug\projekt.pdb
 D:\SomaDutta\projekt\obj\Debug\projekt.Form2.resources
 D:\SomaDutta\projekt\obj\Debug\projekt.AddTrainer.resources
+C:\Users\Piotrek\Desktop\Studia\Programowanie obiektowe\pilkarzyki-dev\bin\Debug\projekt.exe.config
+C:\Users\Piotrek\Desktop\Studia\Programowanie obiektowe\pilkarzyki-dev\bin\Debug\projekt.exe
+C:\Users\Piotrek\Desktop\Studia\Programowanie obiektowe\pilkarzyki-dev\bin\Debug\projekt.pdb
+C:\Users\Piotrek\Desktop\Studia\Programowanie obiektowe\pilkarzyki-dev\obj\Debug\projekt.csprojAssemblyReference.cache
+C:\Users\Piotrek\Desktop\Studia\Programowanie obiektowe\pilkarzyki-dev\obj\Debug\projekt.AddTrainer.resources
+C:\Users\Piotrek\Desktop\Studia\Programowanie obiektowe\pilkarzyki-dev\obj\Debug\projekt.Form1.resources
+C:\Users\Piotrek\Desktop\Studia\Programowanie obiektowe\pilkarzyki-dev\obj\Debug\projekt.Form2.resources
+C:\Users\Piotrek\Desktop\Studia\Programowanie obiektowe\pilkarzyki-dev\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\Piotrek\Desktop\Studia\Programowanie obiektowe\pilkarzyki-dev\obj\Debug\projekt.csproj.GenerateResource.cache
+C:\Users\Piotrek\Desktop\Studia\Programowanie obiektowe\pilkarzyki-dev\obj\Debug\projekt.exe
+C:\Users\Piotrek\Desktop\Studia\Programowanie obiektowe\pilkarzyki-dev\obj\Debug\projekt.pdb
+C:\Users\Piotrek\Desktop\Studia\Programowanie obiektowe\pilkarzyki-dev\obj\Debug\projekt.AddPlayer.resources
+C:\Users\Piotrek\Desktop\Studia\Programowanie obiektowe\pilkarzyki-dev\obj\Debug\projekt.AddOthers.resources

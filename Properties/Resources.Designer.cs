@@ -63,9 +63,39 @@ namespace projekt.Properties {
         /// <summary>
         ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _796073086 {
+            get {
+                object obj = ResourceManager.GetObject("796073086", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap backgroundimage {
             get {
                 object obj = ResourceManager.GetObject("backgroundimage", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap images {
+            get {
+                object obj = ResourceManager.GetObject("images", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap jaroslaw_szandrocho_masazysta_slask_wroclaw {
+            get {
+                object obj = ResourceManager.GetObject("jaroslaw-szandrocho-masazysta-slask-wroclaw", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

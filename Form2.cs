@@ -46,5 +46,21 @@ namespace projekt
             AddTrainer.Closed += (s, args) => this.Close();
             AddTrainer.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            var AddPlayer = new AddPlayer(this.list);
+            AddPlayer.Closed += (s, args) => this.Close();
+            AddPlayer.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            var AddOthers = new AddOthers(this.list);
+            AddOthers.Closed += (s, args) => this.Close();
+            AddOthers.Show();
+        }
     }
 }
